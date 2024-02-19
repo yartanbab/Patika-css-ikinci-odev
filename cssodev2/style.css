@@ -1,0 +1,30 @@
+.footer{
+width: 100%;
+display: inline-block;
+overflow:auto;
+
+}
+
+
+.one{
+    display: inline-block;
+    background-color: aquamarine;
+    margin: 5px;
+    text-align: center;
+    width: 30%;
+    height: 100px;
+
+}
+.row{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+input{
+    width: 50%;
+}
+
+
+.img{
+    text-align: center;
+}
